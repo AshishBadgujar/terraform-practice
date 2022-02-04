@@ -1,0 +1,1 @@
+this file is out of terraform control but terraform will read this file and save state of this file.
